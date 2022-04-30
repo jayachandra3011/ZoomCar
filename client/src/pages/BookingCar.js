@@ -131,7 +131,7 @@ function BookingCar({ match }) {
                 token={onToken}
                 currency='inr'
                 amount={totalAmount * 100}
-                stripeKey="pk_test_51KuDMZSGNQ17njMTcGMbrgtBTvm3ug8fsFRxzuA1ejA9dP6LIC7qrIJG6VWqyxvHAO8Suhx91kneOMZlAVZYtavi00d6k59zOO"
+                stripeKey="pk_test_51KuJnZSAeFNeCqaL6iRcaFKRsNawuzMxLLgMU7HLM1ksrHU7403W9va86voT0HXwZ4KhKa84EkStCkASMCqpusIb00n2hNtpKH"
               >
                   <button className="btn1">
                 Book Now
